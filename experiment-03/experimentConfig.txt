@@ -1,0 +1,8 @@
+backendType=matsim
+expSeqNum=03
+peersLogDirectory=peerlets-log/
+experimentFolderName=experiment-
+bootstrapTime=10
+runTime=10
+runDuration=10
+N=1
